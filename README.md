@@ -1,2 +1,2 @@
 # demo-12
-this is demo git and git hub class
+this is demo git and git hub class.
